@@ -15,7 +15,7 @@ options:
     #dont edit this
     ver: 1.0.0
 
-#Dont edit this
+#Dont edit this ↓
 
 variables:
     {antiac::clickerHook} = true    
